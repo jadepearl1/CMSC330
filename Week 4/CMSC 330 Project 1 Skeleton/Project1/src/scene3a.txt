@@ -1,0 +1,8 @@
+Scene Polygons (500, 500)
+    Right Color (0, 0, 128) at (100, 50) Height 50 Width 100;
+    Rectangle Color (64, 8, 255) at (20, 100) Height 300 Width 400;
+    Isosceles Color (16, 255, 2) at (120, 120) Height 100 Width 200;
+    Parallelogram Color (128, 255, 255) at (299, 100) (440, 120) Offset 100;
+    RegularPolygon Color (255, 0, 255) at (300, 300) Sides 8 Radius 40;
+    Text Color(128, 128, 128) at (400, 200) "This is test case number 3!";
+End.
